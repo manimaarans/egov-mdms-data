@@ -815,6 +815,104 @@
         }
       ],
       "roleBasedDecryptionPolicy": []
+    },
+    {
+      "model": "IndividualEncrypt",
+      "uniqueIdentifier": {
+        "name": "id",
+        "jsonPath": "/id"
+      },
+      "attributes": [
+        {
+          "name": "mobileNumber",
+          "jsonPath": "mobileNumber",
+          "patternId": "001",
+          "mzVisibility": "PLAIN"
+        },
+        {
+          "name": "aadhaarNumber",
+          "jsonPath": "identifiers/*/identifierId",
+          "patternId": "001",
+          "mzVisibility": "PLAIN"
+        }
+      ],
+      "roleBasedDecryptionPolicy": []
+    },
+    {
+      "model": "IndividualSearchEncrypt",
+      "uniqueIdentifier": {
+        "name": "id",
+        "jsonPath": "/id"
+      },
+      "attributes": [
+        {
+          "name": "mobileNumber",
+          "jsonPath": "mobileNumber",
+          "patternId": "001",
+          "mzVisibility": "PLAIN"
+        },
+        {
+          "name": "aadhaarNumber",
+          "jsonPath": "identifier/identifierId",
+          "patternId": "001",
+          "mzVisibility": "PLAIN"
+        }
+      ],
+      "roleBasedDecryptionPolicy": []
+    },
+    {
+      "model": "IndividualSearchIdentifierEncrypt",
+      "uniqueIdentifier": {
+        "name": "id",
+        "jsonPath": "/id"
+      },
+      "attributes": [
+        {
+          "name": "aadhaarNumber",
+          "jsonPath": "identifier/identifierId",
+          "patternId": "001",
+          "mzVisibility": "PLAIN"
+        }
+      ],
+      "roleBasedDecryptionPolicy": []
+    },
+    {
+      "model": "IndividualSearchMobileNumberEncrypt",
+      "uniqueIdentifier": {
+        "name": "id",
+        "jsonPath": "/id"
+      },
+      "attributes": [
+        {
+          "name": "mobileNumber",
+          "jsonPath": "mobileNumber",
+          "patternId": "001",
+          "mzVisibility": "PLAIN"
+        }
+      ],
+      "roleBasedDecryptionPolicy": []
+    },
+    {
+      "model": "IndividualDecrypt",
+      "uniqueIdentifier": {
+        "name": "id",
+        "jsonPath": "/id"
+      },
+      "attributes": [
+        {
+          "name": "mobileNumber",
+          "jsonPath": "mobileNumber",
+          "patternId": null,
+          "mzVisibility": "PLAIN"
+        },
+        {
+          "name": "aadhaarNumber",
+          "jsonPath": "identifiers/*/identifierId",
+          "patternId": "001",
+          "mzVisibility": "MASKED"
+        }
+      ],
+      "roleBasedDecryptionPolicy": []
     }
   ]
 }

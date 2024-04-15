@@ -839,7 +839,7 @@
       "roleBasedDecryptionPolicy": [
         {
           "roles": [
-            "SUPER_USER"
+            "SUPERUSER"
           ],
           "attributeAccessList": [
             {
@@ -921,13 +921,13 @@
           "name": "mobileNumber",
           "jsonPath": "mobileNumber",
           "patternId": null,
-          "mzVisibility": "PLAIN"
+          "defaultVisibility": "PLAIN"
         },
         {
           "name": "aadhaarNumber",
           "jsonPath": "identifiers/*/identifierId",
           "patternId": "001",
-          "mzVisibility": "MASKED"
+          "defaultVisibility": "MASKED"
         }
       ],
       "roleBasedDecryptionPolicy": []

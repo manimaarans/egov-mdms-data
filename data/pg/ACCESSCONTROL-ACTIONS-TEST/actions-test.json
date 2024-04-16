@@ -15034,6 +15034,28 @@
          "serviceCode": "advocate",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 2554,
+         "name": "Search Advocate ",
+         "url": "/advocate/v1/_search",
+         "displayName": "Update Advocate",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "advocate",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 2555,
+         "name": "Search Advocate ",
+         "url": "/advocate/v1/_search",
+         "displayName": "Update Advocate",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "advocate",
+         "code": "null",
+         "path": ""
       }
    ]
 }

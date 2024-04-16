@@ -15036,7 +15036,7 @@
          "path": ""
       },
       {
-         "id": 2558,
+         "id": 2554,
          "name": "Search Advocate",
          "url": "/advocate/v1/_search",
          "displayName": "Search Advocate",
@@ -15047,10 +15047,10 @@
          "path": ""
       },
       {
-         "id": 2559,
-         "name": "Search Advocate",
-         "url": "/advocate/v1/_search",
-         "displayName": "Search Advocate",
+         "id": 2555,
+         "name": "Search Advocate Clerk",
+         "url": "/clerk/v1/_search",
+         "displayName": "Search Advocate Clerk",
          "orderNumber": 0,
          "enabled": false,
          "serviceCode": "advocate",

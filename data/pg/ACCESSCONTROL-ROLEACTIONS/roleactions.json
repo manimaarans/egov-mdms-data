@@ -26103,13 +26103,25 @@
     },
     {
       "rolecode": "USER_REGISTER",
-      "actionid": 2558,
+      "actionid": 2554,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
       "rolecode": "USER_APPROVER",
-      "actionid": 2559,
+      "actionid": 2554,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "USER_REGISTER",
+      "actionid": 2555,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "USER_APPROVER",
+      "actionid": 2555,
       "actioncode": "",
       "tenantId": "pg"
     }

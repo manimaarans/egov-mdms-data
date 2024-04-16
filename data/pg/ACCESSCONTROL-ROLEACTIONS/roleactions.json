@@ -26076,13 +26076,13 @@
       "actionid": 2553,
       "actioncode": "",
       "tenantId": "pg"
-    }, 
+    },
     {
       "rolecode": "USER_REGISTER",
       "actionid": 2548,
       "actioncode": "",
       "tenantId": "pg"
-    }, 
+    },
     {
       "rolecode": "USER_REGISTER",
       "actionid": 2549,
@@ -26119,5 +26119,17 @@
       "actioncode": "",
       "tenantId": "pg"
     }, 
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2548,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2549,
+      "actioncode": "",
+      "tenantId": "pg"
+    }
   ]
 }

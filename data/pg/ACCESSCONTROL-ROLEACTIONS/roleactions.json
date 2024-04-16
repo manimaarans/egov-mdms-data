@@ -26076,6 +26076,48 @@
       "actionid": 2553,
       "actioncode": "",
       "tenantId": "pg"
-    }
+    }, 
+    {
+      "rolecode": "USER_REGISTER",
+      "actionid": 2548,
+      "actioncode": "",
+      "tenantId": "pg"
+    }, 
+    {
+      "rolecode": "USER_REGISTER",
+      "actionid": 2549,
+      "actioncode": "",
+      "tenantId": "pg"
+    }, 
+    {
+      "rolecode": "USER_APPROVER",
+      "actionid": 1729,
+      "actioncode": "",
+      "tenantId": "pg"
+    }, 
+    {
+      "rolecode": "USER_APPROVER",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "pg"
+    }, 
+    {
+      "rolecode": "USER_APPROVER",
+      "actionid": 1741,
+      "actioncode": "",
+      "tenantId": "pg"
+    }, 
+    {
+      "rolecode": "USER_APPROVER",
+      "actionid": 1742,
+      "actioncode": "",
+      "tenantId": "pg"
+    }, 
+    {
+      "rolecode": "USER_APPROVER",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "pg"
+    }, 
   ]
 }

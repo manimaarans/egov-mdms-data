@@ -14990,6 +14990,50 @@
          "serviceCode": "individual",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 2550,
+         "name": "Create Advocate Clerk",
+         "url": "/clerk/v1/_create",
+         "displayName": "Create Advocate Clerk",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "advocate",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 2551,
+         "name": "Update Advocate Clerk",
+         "url": "/clerk/v1/_update",
+         "displayName": "Update Advocate Clerk",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "advocate",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 2552,
+         "name": "Create Advocate ",
+         "url": "/advocate/v1/_create",
+         "displayName": "Create Advocate",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "advocate",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 2553,
+         "name": "Update Advocate ",
+         "url": "/advocate/v1/_update",
+         "displayName": "Update Advocate",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "advocate",
+         "code": "null",
+         "path": ""
       }
    ]
 }

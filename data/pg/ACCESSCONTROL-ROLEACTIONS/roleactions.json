@@ -26100,6 +26100,18 @@
       "actionid": 2549,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "USER_REGISTER",
+      "actionid": 2558,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "USER_APPROVER",
+      "actionid": 2559,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }

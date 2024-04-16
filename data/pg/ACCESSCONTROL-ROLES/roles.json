@@ -901,11 +901,6 @@
       "code": "USER_APPROVER",
       "name": "USER_APPROVER",
       "description": "USER_APPROVER"
-    },
-    {
-      "code": "USER_REJECTOR",
-      "name": "USER_REJECTOR",
-      "description": "USER_REJECTOR"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "tenantId": "pg",
-  "moduleName": "egov-hrms",
+  "moduleName": "pucar",
   "LitigantType": [
     {
       "code": "COMPLAINANT",
@@ -12,10 +12,6 @@
     },
     {
       "code": "WITNESS",
-      "active": true
-    },
-    {
-      "code": "OTHER",
       "active": true
     }
   ]

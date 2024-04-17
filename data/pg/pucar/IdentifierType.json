@@ -1,11 +1,7 @@
 {
   "tenantId": "pg",
-  "moduleName": "egov-hrms",
+  "moduleName": "pucar",
   "IdentifierType": [
-    {
-      "code": "MATRICULATION",
-      "active": true
-    },
     {
       "code": "AADHAAR CARD",
       "active": true
@@ -24,10 +20,6 @@
     },
     {
       "code": "PASSPORT",
-      "active": true
-    },
-    {
-      "code": "OTHER",
       "active": true
     }
   ]

@@ -1,21 +1,21 @@
 {
   "tenantId": "pg",
-  "moduleName": "egov-hrms",
-  "AdvocateType": [
+  "moduleName": "pucar",
+  "DocumentType": [
     {
-      "code": "PRIMARY",
+      "code": "PDF",
       "active": true
     },
     {
-      "code": "SECONDARY",
+      "code": "JPEG",
       "active": true
     },
     {
-      "code": "TERTIARY",
+      "code": "JPG",
       "active": true
     },
     {
-      "code": "OTHER",
+      "code": "PNG",
       "active": true
     }
   ]

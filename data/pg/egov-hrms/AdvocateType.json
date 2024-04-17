@@ -1,0 +1,22 @@
+{
+  "tenantId": "pg",
+  "moduleName": "egov-hrms",
+  "AdvocateType": [
+    {
+      "code": "PRIMARY",
+      "active": true
+    },
+    {
+      "code": "SECONDARY",
+      "active": true
+    },
+    {
+      "code": "TERTIARY",
+      "active": true
+    },
+    {
+      "code": "OTHER",
+      "active": true
+    }
+  ]
+}

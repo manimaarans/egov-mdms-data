@@ -1,0 +1,22 @@
+{
+  "tenantId": "pg",
+  "moduleName": "egov-hrms",
+  "LitigantType": [
+    {
+      "code": "COMPLAINANT",
+      "active": true
+    },
+    {
+      "code": "RESPONDANT",
+      "active": true
+    },
+    {
+      "code": "WITNESS",
+      "active": true
+    },
+    {
+      "code": "OTHER",
+      "active": true
+    }
+  ]
+}

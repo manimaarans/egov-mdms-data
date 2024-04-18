@@ -25,14 +25,6 @@
     {
       "code": "RATION CARD",
       "active": true
-    },
-    {
-      "code": "BIRTH CERTIFICATE",
-      "active": true
-    },
-    {
-      "code": "MATRICULATION CERTIFICATE",
-      "active": true
     }
   ]
 }

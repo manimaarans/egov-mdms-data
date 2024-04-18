@@ -1,21 +1,21 @@
 {
   "tenantId": "pg",
-  "moduleName": "pucar",
+  "moduleName": "common-masters",
   "DocumentType": [
     {
-      "code": "AADHAAR CARD",
+      "code": "AADHAAR_CARD",
       "active": true
     },
     {
-      "code": "PAN CARD",
+      "code": "PAN_CARD",
       "active": true
     },
     {
-      "code": "VOTER ID",
+      "code": "VOTER_ID",
       "active": true
     },
     {
-      "code": "DRIVER LICENSE",
+      "code": "DRIVER_LICENSE",
       "active": true
     },
     {
@@ -23,27 +23,27 @@
       "active": true
     },
     {
-      "code": "RATION CARD",
+      "code": "RATION_CARD",
       "active": true
     },
     {
-      "code": "BIRTH CERTIFICATE",
+      "code": "BIRTH_CERTIFICATE",
       "active": true
     },
     {
-      "code": "MATRICULATION CERTIFICATE",
+      "code": "MATRICULATION_CERTIFICATE",
       "active": true
     },
     {
-      "code": "CERTIFICATE OF PRACTICE",
+      "code": "CERTIFICATE_OF_PRACTICE",
       "active": true
     },
     {
-      "code": "BAR ENROLLMENT CERTIFICATE",
+      "code": "BAR_ENROLLMENT_CERTIFICATE",
       "active": true
     },
     {
-      "code": "DEATH CERTIFICATE,",
+      "code": "DEATH_CERTIFICATE,",
       "active": true
     },
     {
@@ -51,7 +51,7 @@
       "active": true
     },
     {
-      "code": "DEED OF TRUST",
+      "code": "DEED_OF_TRUST",
       "active": true
     },
     {
@@ -59,11 +59,11 @@
       "active": true
     },
     {
-      "code": "LICENSE DOCUMENT",
+      "code": "LICENSE_DOCUMENT",
       "active": true
     },
     {
-      "code": "PERMIT DOCUMENT",
+      "code": "PERMIT_DOCUMENT",
       "active": true
     },
     {
@@ -71,14 +71,14 @@
       "active": true
     },
     {
-      "code": "STATUTORY DECLARATION",
+      "code": "STATUTORY_DECLARATION",
       "active": true
     },
     {
-      "code": "COURT ORDER",
+      "code": "COURT_ORDER",
       "active": true
     },{
-      "code": "CONSENT AGREEMENT",
+      "code": "CONSENT_AGREEMENT",
       "active": true
     },
     {
@@ -118,11 +118,11 @@
       "active": true
     },
     {
-      "code": "FIRST INFORMATION REPORT",
+      "code": "FIRST_INFORMATION_REPORT",
       "active": true
     },
     {
-      "code": "CHARGE SHEET",
+      "code": "CHARGE_SHEET",
       "active": true
     },
     {
@@ -134,19 +134,19 @@
       "active": true
     },
     {
-      "code": "TRANSFER DEED/CERTIFICATE",
+      "code": "TRANSFER_DEED",
       "active": true
     },
     {
-      "code": "SALE DEED",
+      "code": "SALE_DEED",
       "active": true
     },
     {
-      "code": "BANK GUARANTEE",
+      "code": "BANK_GUARANTEE",
       "active": true
     },
     {
-      "code": "TRANSFER CERTIFICATE",
+      "code": "TRANSFER_CERTIFICATE",
       "active": true
     },{
       "code": "PATENT",

@@ -1,6 +1,6 @@
 {
   "tenantId": "pg",
-  "moduleName": "pucar",
+  "moduleName": "advocate",
   "AdvocateType": [
     {
       "code": "PRIMARY",

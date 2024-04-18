@@ -1,6 +1,6 @@
 {
   "tenantId": "pg",
-  "moduleName": "pucar",
+  "moduleName": "user-registration",
   "LitigantType": [
     {
       "code": "COMPLAINANT",

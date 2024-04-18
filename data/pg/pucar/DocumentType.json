@@ -1,0 +1,160 @@
+{
+  "tenantId": "pg",
+  "moduleName": "pucar",
+  "DocumentType": [
+    {
+      "code": "AADHAAR CARD",
+      "active": true
+    },
+    {
+      "code": "PAN CARD",
+      "active": true
+    },
+    {
+      "code": "VOTER ID",
+      "active": true
+    },
+    {
+      "code": "DRIVER LICENSE",
+      "active": true
+    },
+    {
+      "code": "PASSPORT",
+      "active": true
+    },
+    {
+      "code": "RATION CARD",
+      "active": true
+    },
+    {
+      "code": "BIRTH CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "MATRICULATION CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "CERTIFICATE OF PRACTICE",
+      "active": true
+    },
+    {
+      "code": "BAR ENROLLMENT CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "DEATH CERTIFICATE,",
+      "active": true
+    },
+    {
+      "code": "WILL",
+      "active": true
+    },
+    {
+      "code": "DEED OF TRUST",
+      "active": true
+    },
+    {
+      "code": "CONTRACT",
+      "active": true
+    },
+    {
+      "code": "LICENSE DOCUMENT",
+      "active": true
+    },
+    {
+      "code": "PERMIT DOCUMENT",
+      "active": true
+    },
+    {
+      "code": "PLEADINGS",
+      "active": true
+    },
+    {
+      "code": "STATUTORY DECLARATION",
+      "active": true
+    },
+    {
+      "code": "COURT ORDER",
+      "active": true
+    },{
+      "code": "CONSENT AGREEMENT",
+      "active": true
+    },
+    {
+      "code": "AFFIDAVIT",
+      "active": true
+    },
+    {
+      "code": "VAKALATNAMA",
+      "active": true
+    },
+    {
+      "code": "DECLARATION",
+      "active": true
+    },
+    {
+      "code": "AGREEMENT",
+      "active": true
+    },
+    {
+      "code": "CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "SUMMON",
+      "active": true
+    },
+    {
+      "code": "RECEIPT",
+      "active": true
+    },
+    {
+      "code": "BILL",
+      "active": true
+    },
+    {
+      "code": "REPORT",
+      "active": true
+    },
+    {
+      "code": "FIRST INFORMATION REPORT",
+      "active": true
+    },
+    {
+      "code": "CHARGE SHEET",
+      "active": true
+    },
+    {
+      "code": "FILE",
+      "active": true
+    },
+    {
+      "code": "NOTICE",
+      "active": true
+    },
+    {
+      "code": "TRANSFER DEED/CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "SALE DEED",
+      "active": true
+    },
+    {
+      "code": "BANK GUARANTEE",
+      "active": true
+    },
+    {
+      "code": "TRANSFER CERTIFICATE",
+      "active": true
+    },{
+      "code": "PATENT",
+      "active": true
+    },
+    {
+      "code": "OTHERS",
+      "active": true
+    }
+  ]
+}

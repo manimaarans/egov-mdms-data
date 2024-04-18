@@ -1,0 +1,38 @@
+{
+  "tenantId": "pg",
+  "moduleName": "pucar",
+  "IdentifierType": [
+    {
+      "code": "AADHAAR CARD",
+      "active": true
+    },
+    {
+      "code": "PAN CARD",
+      "active": true
+    },
+    {
+      "code": "VOTER ID",
+      "active": true
+    },
+    {
+      "code": "DRIVER LICENSE",
+      "active": true
+    },
+    {
+      "code": "PASSPORT",
+      "active": true
+    },
+    {
+      "code": "RATION CARD",
+      "active": true
+    },
+    {
+      "code": "BIRTH CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "MATRICULATION CERTIFICATE",
+      "active": true
+    }
+  ]
+}

@@ -26154,6 +26154,42 @@
       "actionid": 2555,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "USER_REGISTER",
+      "actionid": 2556,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "USER_APPROVER",
+      "actionid": 2556,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "USER_REGISTER",
+      "actionid": 2557,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "USER_APPROVER",
+      "actionid": 2557,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "USER_REGISTER",
+      "actionid": 2558,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "USER_APPROVER",
+      "actionid": 2558,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }

@@ -827,13 +827,13 @@
           "name": "mobileNumber",
           "jsonPath": "mobileNumber",
           "patternId": "001",
-          "mzVisibility": "PLAIN"
+          "defaultVisibility": "PLAIN"
         },
         {
           "name": "aadhaarNumber",
           "jsonPath": "identifiers/*/identifierId",
           "patternId": "001",
-          "mzVisibility": "PLAIN"
+          "defaultVisibility": "PLAIN"
         }
       ],
       "roleBasedDecryptionPolicy": [
@@ -867,13 +867,13 @@
           "name": "mobileNumber",
           "jsonPath": "mobileNumber",
           "patternId": "001",
-          "mzVisibility": "PLAIN"
+          "defaultVisibility": "PLAIN"
         },
         {
           "name": "aadhaarNumber",
           "jsonPath": "identifier/identifierId",
           "patternId": "001",
-          "mzVisibility": "PLAIN"
+          "defaultVisibility": "PLAIN"
         }
       ],
       "roleBasedDecryptionPolicy": []
@@ -889,7 +889,7 @@
           "name": "aadhaarNumber",
           "jsonPath": "identifier/identifierId",
           "patternId": "001",
-          "mzVisibility": "PLAIN"
+          "defaultVisibility": "PLAIN"
         }
       ],
       "roleBasedDecryptionPolicy": []
@@ -905,7 +905,7 @@
           "name": "mobileNumber",
           "jsonPath": "mobileNumber",
           "patternId": "001",
-          "mzVisibility": "PLAIN"
+          "defaultVisibility": "PLAIN"
         }
       ],
       "roleBasedDecryptionPolicy": []

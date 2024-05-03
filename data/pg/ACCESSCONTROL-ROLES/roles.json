@@ -901,6 +901,26 @@
       "code": "USER_APPROVER",
       "name": "USER_APPROVER",
       "description": "USER_APPROVER"
+    },
+    {
+      "code": "LITIGANT",
+      "name": "LITIGANT",
+      "description": "LITIGANT"
+    },
+    {
+      "code": "ADVOCATE",
+      "name": "ADVOCATE",
+      "description": "ADVOCATE"
+    },
+    {
+      "code": "FSO",
+      "name": "FSO",
+      "description": "FSO"
+    },
+    {
+      "code": "JUDGE",
+      "name": "JUDGE",
+      "description": "JUDGE"
     }
   ]
 }

@@ -26156,37 +26156,61 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "USER_REGISTER",
+      "rolecode": "LITIGANT",
       "actionid": 2556,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "USER_APPROVER",
+      "rolecode": "ADVOCATE",
       "actionid": 2556,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "USER_REGISTER",
+      "rolecode": "LITIGANT",
       "actionid": 2557,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "USER_APPROVER",
+      "rolecode": "ADVOCATE",
       "actionid": 2557,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "USER_REGISTER",
+      "rolecode": "FSO",
+      "actionid": 2557,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "JUDGE",
+      "actionid": 2557,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "LITIGANT",
       "actionid": 2558,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "USER_APPROVER",
+      "rolecode": "ADVOCATE",
+      "actionid": 2558,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSO",
+      "actionid": 2558,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "JUDGE",
       "actionid": 2558,
       "actioncode": "",
       "tenantId": "pg"
